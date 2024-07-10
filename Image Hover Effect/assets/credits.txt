@@ -1,0 +1,7 @@
+1. https://unsplash.com/photos/a-couple-of-horses-are-running-in-a-field-r4DKn37G87c
+
+2. https://unsplash.com/photos/a-whales-tail-is-sticking-out-of-the-water-JQXG6lap6dQ
+
+3. https://unsplash.com/photos/a-flock-of-birds-flying-through-a-white-sky-Dujq-N__oaI
+
+website used to crop image dimensions: bennettfeely.com/clippy/
